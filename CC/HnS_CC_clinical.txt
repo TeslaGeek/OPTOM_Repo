@@ -1,32 +1,13 @@
-GP Details: Dr. De’ath. St. John’s Centre for Hypochondriacs, Unsympathetic Avenue, Busytown. EA17 0CH   
-
-Reason for Visit (RFV): First test. Glare when driving in the night time, longstanding (years). Not much recent change. Complaining mostly of headlights 
-
-General Health (GH): Good
-Medicines (Meds): no medication taken. 
-
-Ocular History (OH): No problems in the past. 
-
-Previous Ocular History (POH): No ocular health issues reported. 
-
-Family Ocular History (FOH): Maternal cataract, Sister cataract, Brother cataract (all from birth) 
-
-Family general heaht (FGH): Good health. 
-
-Driver: yes 
-
-VDU: 8 hours/day 
-
-Occupation: Clinical negligence solicitor
-
-Hobbies: Classic cars, Wines of Australia, Bluegrass music, 1970s Italian cinema 
-
-Clarity of Vision Distance Vision (DV) and Near Vision (NV): Generally good, occasional haze/glare. 
-
-Headaches: headaches occasionally after intense screen use/
-
-no diplopia 
-
-Flashes and Floaters: Neither.   
-
-Never had a test before.
+GP Details: Dr. De’ath. St. John’s Centre for Hypochondriacs, Unsympathetic Avenue, Busytown. EA17 0CH. 
+Reason for Visit (RFV): First test. Glare when driving in the night time, longstanding (years). Not much recent change. Complaining mostly of headlight glare.
+Last eye examination (LEE): this is the first test, no previous examination. No glasses. No contact lenses.
+Symptoms (Sx): gets headaches occasionally after intense screen use. No double vision (diplopia). No floaters, no flashing lights. Clarity of Distance Vision (DV) and Near Vision (NV) generally good, with occasional haze/glare. 
+Ocular History (OH): No problems in the past.
+Family Ocular History (FOH): Maternal cataract, Sister cataract, Brother cataract (all from birth).
+Family medical history (FGH): family in good health. 
+General Health (GH): Good.
+Medication (Meds): no medication taken. 
+Driver: yes.
+Computer use (VDU): 8 hours per day. 
+Occupation: Clinical negligence solicitor.
+Hobbies: Classic cars, Wines of Australia, Bluegrass music, 1970s Italian cinema.
