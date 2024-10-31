@@ -1,30 +1,15 @@
 
-Doctor's details (GP): Dr. De’ath, St. John’s Centre for Hypochondriacs, Unsympathetic Avenue. Busytown. EA17 0CH   
-
-Presenting Symptoms: Sore eyes, occasionally blurry D&N for around 3 months. No difference between right and left eyes.
-
-General Health (GH): No problems
-
-Allergies: Allergic to pollen, dust, plasticine, wasps, milk. 
-
-Medicines (Meds): Antihistamines PRN. 
-
-Ocular History (OH)/ Previous Ocular History (POH): Previous bilateral arc eye (1989). Cataract operations (both eyes) 7 years ago 
-
-Family Ocular Histroy (FOH): Nil of note 
-
-Family General Health (FGH): Nil of note
-
+Doctor's details (GP): Dr. De’ath, St. John’s Centre for Hypochondriacs, Unsympathetic Avenue. Busytown. EA17 0CH.
+Reason for visit (RFV): sore eyes and occasionally blurry vision at distance and near for about 3 months, right and left eyes are the same.
+Last eye examination (LLE): about one year ago. Has reading glasses, ready readers.
+Symptoms (Sx): Sore eyes, occasionally blurry D&N for around 3 months. No difference between right and left eyes. No headaches. No double vision (diplopia). No flashes. Longstanding stable floaters. Distance Vision (DV) and Near vision (NV) usually good.  
+Ocular History (OH), Previous Ocular History (POH): Previous bilateral arc eye in 1989. Cataract operations (both eyes) 7 years ago.
+Family Ocular History (FOH): none of note.
+Family General Health (FGH): none of note.
+General Health (GH): No problems but allergic to pollen, dust, plasticine, wasps, milk.
+Medicines (Meds): Antihistamines when needed (PRN).
+Smoking: no.
 Driver: Yes: Motorcycle, car. 
-
-VDU: Not used. 
-
-Occupation: Inventor, baker 
-
-Hobbies: Has a dog, plays in brass band. 
-
-Clarity of vision: Distance Vision (DV) and Near vision (NV): usually good. 
-No headaches, 
-No diplopia,
-No flashes, 
-longstanding stable floaters. 
+Occupation: Inventor and baker. 
+Computer use (VDU): Not used. 
+Hobbies: Has a dog, plays in brass band.
